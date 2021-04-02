@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rksingh95
 - 👀 I’m interested in product development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, Computer Vision, ML
 - 💞️ I’m looking to collaborate on ML projects (Computer Vision)
 - 📫 How to reach me ...
 
