@@ -80,6 +80,6 @@ I write on LinkedIn about AI adoption, loop engineering and practical prompting,
 
 <div align="center">
 
-**Let's connect on [LinkedIn](https://www.linkedin.com/in/rahul-kumar-singh-23feb1995/)**
+**Want to talk architecture, AI or engineering leadership? Reach out on [LinkedIn](https://www.linkedin.com/in/rahul-kumar-singh-23feb1995/).**
 
 </div>
